@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋, I'm Davide<br>Computer Science Student @University of Milano-Bicocca (UNIMIB)
 
 
