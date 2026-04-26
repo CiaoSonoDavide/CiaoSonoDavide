@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Davide<br>Computer Science Student @[University of Milano-Bicocca (UNIMIB)](https://www.unimib.it/)
+Hi 👋, I'm Davide<br>Computer Science Student [@University of Milano-Bicocca (UNIMIB)](https://www.unimib.it/)
 
 
 # 💻 Tech Stack:
